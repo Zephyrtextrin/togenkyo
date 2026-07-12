@@ -17,5 +17,6 @@ List of SDVX charts for practicing certain skill-sets
 ## Finger Independance
 
 
-
+# Other remarks
+* project is heavily unfinished
 * please note that while i have a dev background i have no prior experience with html and little experience in ui design, so excuse any bad html/bad ui
